@@ -1,4 +1,4 @@
-class Detection:
+ class Detection:
     def __init__(self):
         self.gubun = "0"
         self.component = "0"
